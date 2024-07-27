@@ -46,5 +46,6 @@ router.get('/', async (req, res) => {
   
   });
 
+  // comment added to their purpose
   module.exports = router;
   
